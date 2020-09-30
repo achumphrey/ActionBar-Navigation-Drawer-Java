@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ActionBar Nav Drawer Java</string>
+    <string name="title_top">Top Level Fragment</string>
+
+    <string-array name="PageThree">
+        <item>Java</item>
+        <item>Swift</item>
+        <item>C#</item>
+        <item>SQL</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Oisin</item>
+        <item>Markson</item>
+        <item>Programing Languages</item>
+    </string-array>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="ticks">Accessibility</string>
+
+    <string name="TopLevel1">Tech Team</string>
+    <string name="TopLevel2">Our mission is simple, to educate everyone, everywhere.
+        Our focus is on life training because it is interactive, engaging and interesting.
+        Our education evolves faster than anything else because it is live!
+
+    </string>
+
+    <string name="P11">Oisin</string>
+    <string name="P12">This is another description of Oisin\n. He likes \n
+        \nDancing
+        \nBacon
+        \nReading
+        \nDisco
+        \nAns of course Development
+    </string>
+
+    <string name="P21">Markson</string>
+    <string name="P22">This is another description of Markson\n. He likes \n
+        \nDancing
+        \nBacon
+        \nReading
+        \nDisco
+        \nAns of course Development
+    </string>
+
+</resources>

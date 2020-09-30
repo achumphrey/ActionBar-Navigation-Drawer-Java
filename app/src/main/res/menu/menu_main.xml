@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/example"
+        app:showAsAction="never"
+        android:title="@string/ticks"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_done_black_24dp"/>
+
+</menu>
